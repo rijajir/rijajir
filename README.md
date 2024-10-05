@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riza Arfiqih
 ====================================================================================================================================
 
-Data Scientist & Analyst from Indonesia
+Data Scientist, Data Analyst, & Machine Learning Engineer from Indonesia
 ---------------------------------------
 
 Currently a student at the Data Science Bootcamp at dibimbing.id learning for self-development and skills related to industries. Becoming a Data Scientist and Analyst enthusiast who actively works on various B2C/B2B projects such as e-commerce, banking, fintech, hospitality/tourism, retail, etc. Proficient in designing and managing databases using SQL in Dbeaver, PostgreSQL, MySQL, and Google Big Query. Expert in using Excel or Python in IDEs such as Jupyter, Anaconda, and Visual Studio Code to explore, clean, manipulate, transform, and interpret complex data. Expert in data analysis using the EDA (Exploratory Data Analytics) and Hypothesis Testing Concepts to make data clearer and more robust. Creating high-level dashboards that provide clear views of critical metrics with various packages in Python, Excel, or data visual tools such as Tableau, Google Looker Studio, and Power BI. Modeling supervised and unsupervised machine learning algorithms using various methods such as simple and multiple regression models, clustering with K-Means, using statistical libraries (numpy, scipy, scikit-learn, statsmodels, etc) to make predictions. Storytelling and communicating the data into valuable findings and actionable insights into various strategic decisions based on current business performance and/or potential.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Data crafting with Riza](http://github.com/rijajir/starting_git)
+* 🖥️  See my portfolio at [Data exploring with Riza](http://github.com/rijajir/starting_git)
 * ✉️  You can contact me at [rizarfiqih@gmail.com](mailto:rizarfiqih@gmail.com)
 * 🧠  I'm learning Data Scientist
-* 🤝  I'm open to collaborating on Data Science, Data Analyst, & Machine Learning projects
-* ⚡  I'm currently crafting various datasets to perform nice personal branding in Data roles
+* 🤝  I'm open to collaborating on Data Science, Data Analytics, & Machine Learning projects
+* ⚡  I'm currently crafting splendid projects with various datasets to show my branding in Data roles
 
 ### Skills
 
