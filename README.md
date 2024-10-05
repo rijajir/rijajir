@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @rijajir
-- 👀 I’m interested in crafting billions of data
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science and machine learning
-- 📫 How to reach me, knock 3 times at the front door |+-|
-- 😄 Pronouns: reedja
-- ⚡ Fun fact: Enjoy looking raindrops
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riza Arfiqih
+====================================================================================================================================
 
-<!---
-rijajir/rijajir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist & Analyst from Indonesia
+---------------------------------------
+
+Currently a student at the Data Science Bootcamp at dibimbing.id learning for self-development and skills related to industries. Becoming a Data Scientist and Analyst enthusiast who actively works on various B2C/B2B projects such as e-commerce, banking, fintech, hospitality/tourism, retail, etc. Proficient in designing and managing databases using SQL in Dbeaver, PostgreSQL, MySQL, and Google Big Query. Expert in using Excel or Python in IDEs such as Jupyter, Anaconda, and Visual Studio Code to explore, clean, manipulate, transform, and interpret complex data. Expert in data analysis using the EDA (Exploratory Data Analytics) and Hypothesis Testing Concepts to make data clearer and more robust. Creating high-level dashboards that provide clear views of critical metrics with various packages in Python, Excel, or data visual tools such as Tableau, Google Looker Studio, and Power BI. Modeling supervised and unsupervised machine learning algorithms using various methods such as simple and multiple regression models, clustering with K-Means, using statistical libraries (numpy, scipy, scikit-learn, statsmodels, etc) to make predictions. Storytelling and communicating the data into valuable findings and actionable insights into various strategic decisions based on current business performance and/or potential.
+
+* 🌍  I'm based in Indonesia
+* 🖥️  See my portfolio at [Data crafting with Riza](http://github.com/rijajir/starting_git)
+* ✉️  You can contact me at [rizarfiqih@gmail.com](mailto:rizarfiqih@gmail.com)
+* 🧠  I'm learning Data Scientist
+* 🤝  I'm open to collaborating on Data Science, Data Analyst, & Machine Learning projects
+* ⚡  I'm currently crafting various datasets to perform nice personal branding in Data roles
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/rizarfiqih" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/rijajir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rizarfiqih/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@djarotman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/25629468/riza-arfiqih" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rijajir"><img src="https://github-readme-stats.vercel.app/api?username=rijajir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rijajir's GitHub stats" /></a>
+
+<a href="http://www.github.com/rijajir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rijajir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/rijajir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijajir&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/rijajir/rijajir" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rijajir&repo=rijajir&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
