@@ -9,9 +9,10 @@ Currently a student at the Data Science Bootcamp at dibimbing.id learning for se
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Data journey with Riza](http://github.com/rijajir/starting_git)
 * ✉️  You can contact me at [rizarfiqih@gmail.com](mailto:rizarfiqih@gmail.com)
-* 🧠  I'm learning Data Science
+* 🌱  I'm learning Data Science at dibimbing.id
 * 🤝  I'm open to collaborating on Data Science, Data Analytics, & Machine Learning projects
 * ⚡  I'm currently crafting splendid projects with various datasets to show my branding in Data roles
+* 🤔  I’m currently open for : A new job opportunity, [Link to My Resume](https://drive.google.com/file/d/1tLZx_z4KUn483QhKUehIP-2g0H-DpUEp/view?usp=drive_link)
 
 ### Skills
 
